@@ -1,1 +1,1 @@
-In this folder, we provide the best models we trained to reproduce the results.
+In this folder, we provide the **best models we trained** to reproduce the results.
