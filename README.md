@@ -2,7 +2,7 @@
 
 ### Requirements
 
-**Please use Python 3.7+**To get started:
+**Please use Python 3.7+** To get started:
 
 ```shell
 git clone https://github.com/WanliYoung/SNN4SA.git
