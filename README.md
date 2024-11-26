@@ -15,7 +15,7 @@ pip install -r requirements.txt
 
 To make the pre-trained word embeddings available for SNN, we need to convert them into values in [0, 1].
 
-Prepare the `glove.6B.300d.txt` and `SST2 ` dataset in `data`. Then you can utilize the `data_process.py` to gain converted word embeddings.
+Prepare the `glove.6B.300d.txt` and `SST2` dataset in `data`. Then you can utilize the `data_process.py` to gain converted word embeddings.
 
 ### CNN
 
