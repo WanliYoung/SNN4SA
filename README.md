@@ -26,7 +26,7 @@ Prepare the `glove.6B.300d.txt` and `SST2` dataset in `data`. Then you can utili
 ### CNN
 
 ```shell
-python train.py --mode train --model_mode ann --model_type textcnn
+python train.py --mode train --model_mode ann --model_type normal_textcnn
 ```
 
 ### SNN
