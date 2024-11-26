@@ -11,7 +11,7 @@ conda create -n SNN4SA python=3.7
 pip install -r requirements.txt
 ```
 
-## Convert Pre-trained Word Embeddings
+### Convert Pre-trained Word Embeddings
 
 To make the pre-trained word embeddings available for SNN, we need to convert them into values in [0, 1].
 
