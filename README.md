@@ -43,4 +43,7 @@ python train.py --mode train --model_mode combine --model_type cnn_snn
 
 
 
-**Note**: If you have any problems, feel free to contact us.
+**Note**: 
+
+- Detailed introduction and analysis are provided in `ExperimentalReport.pdf`.
+- If you have any problems, feel free to contact us.
