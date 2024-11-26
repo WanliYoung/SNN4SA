@@ -3,8 +3,8 @@
 **Note**: 
 
 - Detailed introduction and analysis are provided in `ExperimentalReport.pdf`.
-- If you have any problems, feel free to contact us.
 - You can get the best models we trained in `best_models`.
+- If you have any problems, feel free to contact us.
 
 ### Requirements
 
