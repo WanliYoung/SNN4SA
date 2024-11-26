@@ -1,5 +1,10 @@
 # SNN4SA: Spiking Neural Network for Sentiment Analysis.
 
+**Note**: 
+
+- Detailed introduction and analysis are provided in `ExperimentalReport.pdf`.
+- If you have any problems, feel free to contact us.
+
 ### Requirements
 
 **Please use Python 3.7+** To get started:
@@ -41,9 +46,3 @@ python train.py --mode conversion --model_mode snn --model_type textcnn --conver
 python train.py --mode train --model_mode combine --model_type cnn_snn
 ```
 
-
-
-**Note**: 
-
-- Detailed introduction and analysis are provided in `ExperimentalReport.pdf`.
-- If you have any problems, feel free to contact us.
